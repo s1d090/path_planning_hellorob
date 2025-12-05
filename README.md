@@ -29,3 +29,9 @@ The goal is an x and y position in meters. Use the robot's web app to pick a goo
 You will likely want to change the default collision radius. You can do this with argument `-r [RADIUS]`.
 
 Use `python robot_plan_path.py -h` to show usage.
+
+## Simulation Video Demonstration
+
+A video recording of the path planning algorithm in action is available for viewing:
+
+
